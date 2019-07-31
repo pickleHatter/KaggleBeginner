@@ -1,2 +1,2 @@
 # KaggleBeginner
-solutions and python code for kaggle beginner problem 
+Use [sklearn](https://scikit-learn.org/stable/index.html) package to solve the kaggle beginner competition.
