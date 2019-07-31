@@ -1,4 +1,4 @@
-Solution for Kaggle beginner competition: Digit Recognizer 
+#Solution for Kaggle beginner competition: Digit Recognizer 
 
 competiton link: https://www.kaggle.com/c/digit-recognizer/
 
